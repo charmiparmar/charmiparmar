@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on AI/ML and BI based projects
+- 🌱 I’m currently learning Advanced Data Architecture and Business Intelligence Tools and Concepts
+- 📫 How to reach me: Portfolio Website (https://charmiparmar.netlify.app/)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Keep calm and refactor ✨
+
+[Charmi_Parmar_DataAnalyst_Resume.pdf](https://github.com/charmiparmar/charmiparmar/files/14095314/Charmi_Parmar_DataAnalyst.pdf)
+
+
 <!--
 **charmiparmar/charmiparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
