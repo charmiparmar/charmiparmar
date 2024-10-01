@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Keep calm and refactor ✨
 
-[Charmi_Parmar_DataAnalyst_Resume.pdf](https://github.com/charmiparmar/charmiparmar/files/14095314/Charmi_Parmar_DataAnalyst.pdf)
+[[Charmi_Parmar_Resume.pdf](https://github.com/user-attachments/files/17217709/Charmi_Parmar_Resume.pdf)
 
 
 <!--
