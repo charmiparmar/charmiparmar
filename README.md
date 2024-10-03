@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on AI/ML and BI based projects
 - 🌱 I’m currently learning Advanced Data Architecture and Business Intelligence Tools and Concepts
-- 📫 How to reach me: Portfolio Website (https://charmiparmar.netlify.app/)
+- 📫 How to reach me: [Portfolio Website](https://charmiparmar.netlify.app/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Keep calm and refactor ✨
 
