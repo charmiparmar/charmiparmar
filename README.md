@@ -6,8 +6,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Keep calm and refactor ✨
 
-[[Charmi_Parmar_Resume.pdf](https://github.com/user-attachments/files/18013385/Charmi_Parmar_Resume.pdf)]
-
 <!--
 **charmiparmar/charmiparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
